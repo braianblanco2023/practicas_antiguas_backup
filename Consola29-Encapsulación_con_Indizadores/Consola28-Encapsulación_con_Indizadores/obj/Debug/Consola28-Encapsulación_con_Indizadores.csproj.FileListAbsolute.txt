@@ -1,0 +1,7 @@
+C:\Users\Braian\source\repos\Consola28-Encapsulación_con_Indizadores\Consola28-Encapsulación_con_Indizadores\bin\Debug\Consola28-Encapsulación_con_Indizadores.exe.config
+C:\Users\Braian\source\repos\Consola28-Encapsulación_con_Indizadores\Consola28-Encapsulación_con_Indizadores\bin\Debug\Consola28-Encapsulación_con_Indizadores.exe
+C:\Users\Braian\source\repos\Consola28-Encapsulación_con_Indizadores\Consola28-Encapsulación_con_Indizadores\bin\Debug\Consola28-Encapsulación_con_Indizadores.pdb
+C:\Users\Braian\source\repos\Consola28-Encapsulación_con_Indizadores\Consola28-Encapsulación_con_Indizadores\obj\Debug\Consola28-Encapsulación_con_Indizadores.csproj.AssemblyReference.cache
+C:\Users\Braian\source\repos\Consola28-Encapsulación_con_Indizadores\Consola28-Encapsulación_con_Indizadores\obj\Debug\Consola28-Encapsulación_con_Indizadores.csproj.CoreCompileInputs.cache
+C:\Users\Braian\source\repos\Consola28-Encapsulación_con_Indizadores\Consola28-Encapsulación_con_Indizadores\obj\Debug\Consola28-Encapsulación_con_Indizadores.exe
+C:\Users\Braian\source\repos\Consola28-Encapsulación_con_Indizadores\Consola28-Encapsulación_con_Indizadores\obj\Debug\Consola28-Encapsulación_con_Indizadores.pdb

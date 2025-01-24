@@ -1,0 +1,5 @@
+D:\Visual Studio 2008\Projects\Consola31 - Excepciones\Consola31\obj\Debug\Consola31.exe
+D:\Visual Studio 2008\Projects\Consola31 - Excepciones\Consola31\obj\Debug\Consola31.pdb
+D:\Visual Studio 2008\Projects\Consola31 - Excepciones\Consola31\bin\Debug\Consola31.exe
+D:\Visual Studio 2008\Projects\Consola31 - Excepciones\Consola31\bin\Debug\Consola31.pdb
+D:\Visual Studio 2008\Projects\Consola31 - Excepciones\Consola31\obj\Debug\ResolveAssemblyReference.cache

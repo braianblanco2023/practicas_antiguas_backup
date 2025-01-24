@@ -1,0 +1,16 @@
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\bin\Debug\net5.0\Consola46 - Buscar_en_Archivos.exe
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\bin\Debug\net5.0\Consola46 - Buscar_en_Archivos.deps.json
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\bin\Debug\net5.0\Consola46 - Buscar_en_Archivos.runtimeconfig.json
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\bin\Debug\net5.0\Consola46 - Buscar_en_Archivos.runtimeconfig.dev.json
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\bin\Debug\net5.0\Consola46 - Buscar_en_Archivos.dll
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\bin\Debug\net5.0\ref\Consola46 - Buscar_en_Archivos.dll
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\bin\Debug\net5.0\Consola46 - Buscar_en_Archivos.pdb
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\obj\Debug\net5.0\Consola46 - Buscar_en_Archivos.csprojAssemblyReference.cache
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\obj\Debug\net5.0\Consola46 - Buscar_en_Archivos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\obj\Debug\net5.0\Consola46 - Buscar_en_Archivos.AssemblyInfoInputs.cache
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\obj\Debug\net5.0\Consola46 - Buscar_en_Archivos.AssemblyInfo.cs
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\obj\Debug\net5.0\Consola46 - Buscar_en_Archivos.csproj.CoreCompileInputs.cache
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\obj\Debug\net5.0\Consola46 - Buscar_en_Archivos.dll
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\obj\Debug\net5.0\ref\Consola46 - Buscar_en_Archivos.dll
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\obj\Debug\net5.0\Consola46 - Buscar_en_Archivos.pdb
+F:\Programacion - Practicas\Projects\Consola46 - Buscar_en_Archivos\Consola46 - Buscar_en_Archivos\obj\Debug\net5.0\Consola46 - Buscar_en_Archivos.genruntimeconfig.cache

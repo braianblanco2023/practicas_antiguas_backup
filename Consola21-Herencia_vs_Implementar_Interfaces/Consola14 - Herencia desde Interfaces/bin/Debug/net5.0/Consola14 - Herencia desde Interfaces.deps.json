@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consola14 - Herencia desde Interfaces/1.0.0": {
+        "runtime": {
+          "Consola14 - Herencia desde Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola14 - Herencia desde Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\Braian\source\repos\Consola39-Directiva_using\Consola39-Directiva_using\bin\Debug\Consola39-Directiva_using.exe.config
+C:\Users\Braian\source\repos\Consola39-Directiva_using\Consola39-Directiva_using\bin\Debug\Consola39-Directiva_using.exe
+C:\Users\Braian\source\repos\Consola39-Directiva_using\Consola39-Directiva_using\bin\Debug\Consola39-Directiva_using.pdb
+C:\Users\Braian\source\repos\Consola39-Directiva_using\Consola39-Directiva_using\obj\Debug\Consola39-Directiva_using.csproj.AssemblyReference.cache
+C:\Users\Braian\source\repos\Consola39-Directiva_using\Consola39-Directiva_using\obj\Debug\Consola39-Directiva_using.csproj.CoreCompileInputs.cache
+C:\Users\Braian\source\repos\Consola39-Directiva_using\Consola39-Directiva_using\obj\Debug\Consola39-Directiva_using.exe
+C:\Users\Braian\source\repos\Consola39-Directiva_using\Consola39-Directiva_using\obj\Debug\Consola39-Directiva_using.pdb

@@ -1,0 +1,2 @@
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola24 - Colecciones - Arrays vs ArrayList\Consola26\obj\Debug\Consola26.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola24 - Colecciones - Arrays vs ArrayList\Consola26\obj\Debug\Consola26.pdb

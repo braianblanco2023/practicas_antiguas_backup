@@ -1,0 +1,11 @@
+G:\Programacion - Practicas\Projects\Consola35 - Colecciones - Tuplas\Consola35 - Colecciones - Tuplas\bin\Debug\netcoreapp2.1\Consola35 - Colecciones - Tuplas.deps.json
+G:\Programacion - Practicas\Projects\Consola35 - Colecciones - Tuplas\Consola35 - Colecciones - Tuplas\bin\Debug\netcoreapp2.1\Consola35 - Colecciones - Tuplas.runtimeconfig.json
+G:\Programacion - Practicas\Projects\Consola35 - Colecciones - Tuplas\Consola35 - Colecciones - Tuplas\bin\Debug\netcoreapp2.1\Consola35 - Colecciones - Tuplas.runtimeconfig.dev.json
+G:\Programacion - Practicas\Projects\Consola35 - Colecciones - Tuplas\Consola35 - Colecciones - Tuplas\bin\Debug\netcoreapp2.1\Consola35 - Colecciones - Tuplas.dll
+G:\Programacion - Practicas\Projects\Consola35 - Colecciones - Tuplas\Consola35 - Colecciones - Tuplas\bin\Debug\netcoreapp2.1\Consola35 - Colecciones - Tuplas.pdb
+G:\Programacion - Practicas\Projects\Consola35 - Colecciones - Tuplas\Consola35 - Colecciones - Tuplas\obj\Debug\netcoreapp2.1\Consola35 - Colecciones - Tuplas.csprojAssemblyReference.cache
+G:\Programacion - Practicas\Projects\Consola35 - Colecciones - Tuplas\Consola35 - Colecciones - Tuplas\obj\Debug\netcoreapp2.1\Consola35 - Colecciones - Tuplas.csproj.CoreCompileInputs.cache
+G:\Programacion - Practicas\Projects\Consola35 - Colecciones - Tuplas\Consola35 - Colecciones - Tuplas\obj\Debug\netcoreapp2.1\Consola35 - Colecciones - Tuplas.AssemblyInfoInputs.cache
+G:\Programacion - Practicas\Projects\Consola35 - Colecciones - Tuplas\Consola35 - Colecciones - Tuplas\obj\Debug\netcoreapp2.1\Consola35 - Colecciones - Tuplas.AssemblyInfo.cs
+G:\Programacion - Practicas\Projects\Consola35 - Colecciones - Tuplas\Consola35 - Colecciones - Tuplas\obj\Debug\netcoreapp2.1\Consola35 - Colecciones - Tuplas.dll
+G:\Programacion - Practicas\Projects\Consola35 - Colecciones - Tuplas\Consola35 - Colecciones - Tuplas\obj\Debug\netcoreapp2.1\Consola35 - Colecciones - Tuplas.pdb

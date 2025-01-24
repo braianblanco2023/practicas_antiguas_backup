@@ -1,0 +1,6 @@
+G:\Practicas\Projects\Consola37 - Excepciones - Tratamiento\Consola32\bin\Debug\Consola32.exe
+G:\Practicas\Projects\Consola37 - Excepciones - Tratamiento\Consola32\bin\Debug\Consola32.pdb
+G:\Practicas\Projects\Consola37 - Excepciones - Tratamiento\Consola32\obj\Debug\Consola36 - Excepciones - Tratamiento.csprojAssemblyReference.cache
+G:\Practicas\Projects\Consola37 - Excepciones - Tratamiento\Consola32\obj\Debug\Consola36 - Excepciones - Tratamiento.csproj.CoreCompileInputs.cache
+G:\Practicas\Projects\Consola37 - Excepciones - Tratamiento\Consola32\obj\Debug\Consola32.exe
+G:\Practicas\Projects\Consola37 - Excepciones - Tratamiento\Consola32\obj\Debug\Consola32.pdb

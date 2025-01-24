@@ -1,0 +1,9 @@
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Calculadora\bin\Debug\netstandard2.0\Calculadora.deps.json
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Calculadora\bin\Debug\netstandard2.0\Calculadora.dll
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Calculadora\bin\Debug\netstandard2.0\Calculadora.pdb
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Calculadora\obj\Debug\netstandard2.0\Calculadora.csprojAssemblyReference.cache
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Calculadora\obj\Debug\netstandard2.0\Calculadora.csproj.CoreCompileInputs.cache
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Calculadora\obj\Debug\netstandard2.0\Calculadora.AssemblyInfoInputs.cache
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Calculadora\obj\Debug\netstandard2.0\Calculadora.AssemblyInfo.cs
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Calculadora\obj\Debug\netstandard2.0\Calculadora.dll
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Calculadora\obj\Debug\netstandard2.0\Calculadora.pdb

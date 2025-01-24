@@ -1,0 +1,2 @@
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola24 - Colecciones - Arrays vs ArrayList\Consola23 - Arrays vs ArrayList\obj\Debug\Consola23 - Arrays vs ArrayList.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola24 - Colecciones - Arrays vs ArrayList\Consola23 - Arrays vs ArrayList\obj\Debug\Consola23 - Arrays vs ArrayList.pdb

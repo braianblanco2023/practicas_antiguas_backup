@@ -1,0 +1,7 @@
+C:\Users\Braian\source\repos\Consola03-Condicionales_If_vs_Switch\Consola03-Condicionales_If_vs_Switch\bin\Debug\Consola03-Condicionales_If_vs_Switch.exe.config
+C:\Users\Braian\source\repos\Consola03-Condicionales_If_vs_Switch\Consola03-Condicionales_If_vs_Switch\bin\Debug\Consola03-Condicionales_If_vs_Switch.exe
+C:\Users\Braian\source\repos\Consola03-Condicionales_If_vs_Switch\Consola03-Condicionales_If_vs_Switch\bin\Debug\Consola03-Condicionales_If_vs_Switch.pdb
+C:\Users\Braian\source\repos\Consola03-Condicionales_If_vs_Switch\Consola03-Condicionales_If_vs_Switch\obj\Debug\Consola03-Condicionales_If_vs_Switch.csproj.AssemblyReference.cache
+C:\Users\Braian\source\repos\Consola03-Condicionales_If_vs_Switch\Consola03-Condicionales_If_vs_Switch\obj\Debug\Consola03-Condicionales_If_vs_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Braian\source\repos\Consola03-Condicionales_If_vs_Switch\Consola03-Condicionales_If_vs_Switch\obj\Debug\Consola03-Condicionales_If_vs_Switch.exe
+C:\Users\Braian\source\repos\Consola03-Condicionales_If_vs_Switch\Consola03-Condicionales_If_vs_Switch\obj\Debug\Consola03-Condicionales_If_vs_Switch.pdb

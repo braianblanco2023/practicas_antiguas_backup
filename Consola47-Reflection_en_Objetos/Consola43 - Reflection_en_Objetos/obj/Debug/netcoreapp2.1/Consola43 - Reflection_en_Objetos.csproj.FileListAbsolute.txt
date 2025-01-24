@@ -1,0 +1,11 @@
+G:\Programacion - Practicas\Projects\Consola43 - Reflection_en_Objetos\Consola43 - Reflection_en_Objetos\bin\Debug\netcoreapp2.1\Consola43 - Reflection_en_Objetos.deps.json
+G:\Programacion - Practicas\Projects\Consola43 - Reflection_en_Objetos\Consola43 - Reflection_en_Objetos\bin\Debug\netcoreapp2.1\Consola43 - Reflection_en_Objetos.runtimeconfig.json
+G:\Programacion - Practicas\Projects\Consola43 - Reflection_en_Objetos\Consola43 - Reflection_en_Objetos\bin\Debug\netcoreapp2.1\Consola43 - Reflection_en_Objetos.runtimeconfig.dev.json
+G:\Programacion - Practicas\Projects\Consola43 - Reflection_en_Objetos\Consola43 - Reflection_en_Objetos\bin\Debug\netcoreapp2.1\Consola43 - Reflection_en_Objetos.dll
+G:\Programacion - Practicas\Projects\Consola43 - Reflection_en_Objetos\Consola43 - Reflection_en_Objetos\bin\Debug\netcoreapp2.1\Consola43 - Reflection_en_Objetos.pdb
+G:\Programacion - Practicas\Projects\Consola43 - Reflection_en_Objetos\Consola43 - Reflection_en_Objetos\obj\Debug\netcoreapp2.1\Consola43 - Reflection_en_Objetos.csprojAssemblyReference.cache
+G:\Programacion - Practicas\Projects\Consola43 - Reflection_en_Objetos\Consola43 - Reflection_en_Objetos\obj\Debug\netcoreapp2.1\Consola43 - Reflection_en_Objetos.csproj.CoreCompileInputs.cache
+G:\Programacion - Practicas\Projects\Consola43 - Reflection_en_Objetos\Consola43 - Reflection_en_Objetos\obj\Debug\netcoreapp2.1\Consola43 - Reflection_en_Objetos.AssemblyInfoInputs.cache
+G:\Programacion - Practicas\Projects\Consola43 - Reflection_en_Objetos\Consola43 - Reflection_en_Objetos\obj\Debug\netcoreapp2.1\Consola43 - Reflection_en_Objetos.AssemblyInfo.cs
+G:\Programacion - Practicas\Projects\Consola43 - Reflection_en_Objetos\Consola43 - Reflection_en_Objetos\obj\Debug\netcoreapp2.1\Consola43 - Reflection_en_Objetos.dll
+G:\Programacion - Practicas\Projects\Consola43 - Reflection_en_Objetos\Consola43 - Reflection_en_Objetos\obj\Debug\netcoreapp2.1\Consola43 - Reflection_en_Objetos.pdb

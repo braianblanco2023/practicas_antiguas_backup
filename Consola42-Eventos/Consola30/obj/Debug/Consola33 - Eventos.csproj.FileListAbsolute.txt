@@ -1,0 +1,11 @@
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola33 - Eventos\Consola30\obj\Debug\Consola30.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola33 - Eventos\Consola30\obj\Debug\Consola30.pdb
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola33 - Eventos\Consola30\bin\Debug\Consola30.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola33 - Eventos\Consola30\bin\Debug\Consola30.pdb
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola33 - Eventos\Consola30\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\Consola38 - Eventos\Consola30\bin\Debug\Consola30.exe
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\Consola38 - Eventos\Consola30\bin\Debug\Consola30.pdb
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\Consola38 - Eventos\Consola30\obj\Debug\Consola33 - Eventos.csprojAssemblyReference.cache
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\Consola38 - Eventos\Consola30\obj\Debug\Consola33 - Eventos.csproj.CoreCompileInputs.cache
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\Consola38 - Eventos\Consola30\obj\Debug\Consola30.exe
+E:\Backup-Braian\Programacion\Programacion - Practicas\Projects\Consola38 - Eventos\Consola30\obj\Debug\Consola30.pdb

@@ -1,0 +1,11 @@
+G:\Programacion - Practicas\Projects\Consola45 - Archivos\Consola45 - Archivos\obj\Debug\netcoreapp2.1\Consola45 - Archivos.csprojAssemblyReference.cache
+G:\Programacion - Practicas\Projects\Consola45 - Archivos\Consola45 - Archivos\obj\Debug\netcoreapp2.1\Consola45 - Archivos.csproj.CoreCompileInputs.cache
+G:\Programacion - Practicas\Projects\Consola45 - Archivos\Consola45 - Archivos\obj\Debug\netcoreapp2.1\Consola45 - Archivos.AssemblyInfoInputs.cache
+G:\Programacion - Practicas\Projects\Consola45 - Archivos\Consola45 - Archivos\obj\Debug\netcoreapp2.1\Consola45 - Archivos.AssemblyInfo.cs
+G:\Programacion - Practicas\Projects\Consola45 - Archivos\Consola45 - Archivos\bin\Debug\netcoreapp2.1\Consola45 - Archivos.deps.json
+G:\Programacion - Practicas\Projects\Consola45 - Archivos\Consola45 - Archivos\bin\Debug\netcoreapp2.1\Consola45 - Archivos.runtimeconfig.json
+G:\Programacion - Practicas\Projects\Consola45 - Archivos\Consola45 - Archivos\bin\Debug\netcoreapp2.1\Consola45 - Archivos.runtimeconfig.dev.json
+G:\Programacion - Practicas\Projects\Consola45 - Archivos\Consola45 - Archivos\bin\Debug\netcoreapp2.1\Consola45 - Archivos.dll
+G:\Programacion - Practicas\Projects\Consola45 - Archivos\Consola45 - Archivos\bin\Debug\netcoreapp2.1\Consola45 - Archivos.pdb
+G:\Programacion - Practicas\Projects\Consola45 - Archivos\Consola45 - Archivos\obj\Debug\netcoreapp2.1\Consola45 - Archivos.dll
+G:\Programacion - Practicas\Projects\Consola45 - Archivos\Consola45 - Archivos\obj\Debug\netcoreapp2.1\Consola45 - Archivos.pdb

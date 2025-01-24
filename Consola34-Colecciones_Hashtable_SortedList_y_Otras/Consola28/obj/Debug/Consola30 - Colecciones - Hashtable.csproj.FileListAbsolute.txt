@@ -1,0 +1,6 @@
+G:\Practicas\Projects\Consola30 - Colecciones - Hashtable\Consola28\bin\Debug\Consola28.exe
+G:\Practicas\Projects\Consola30 - Colecciones - Hashtable\Consola28\bin\Debug\Consola28.pdb
+G:\Practicas\Projects\Consola30 - Colecciones - Hashtable\Consola28\obj\Debug\Consola30 - Colecciones - Hashtable.csprojAssemblyReference.cache
+G:\Practicas\Projects\Consola30 - Colecciones - Hashtable\Consola28\obj\Debug\Consola30 - Colecciones - Hashtable.csproj.CoreCompileInputs.cache
+G:\Practicas\Projects\Consola30 - Colecciones - Hashtable\Consola28\obj\Debug\Consola28.exe
+G:\Practicas\Projects\Consola30 - Colecciones - Hashtable\Consola28\obj\Debug\Consola28.pdb

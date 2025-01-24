@@ -1,0 +1,7 @@
+C:\Users\Braian\source\repos\Consola41-Delegados_ejemplificado\Consola41-Delegados_ejemplificado\bin\Debug\Consola41-Delegados_ejemplificado.exe.config
+C:\Users\Braian\source\repos\Consola41-Delegados_ejemplificado\Consola41-Delegados_ejemplificado\bin\Debug\Consola41-Delegados_ejemplificado.exe
+C:\Users\Braian\source\repos\Consola41-Delegados_ejemplificado\Consola41-Delegados_ejemplificado\bin\Debug\Consola41-Delegados_ejemplificado.pdb
+C:\Users\Braian\source\repos\Consola41-Delegados_ejemplificado\Consola41-Delegados_ejemplificado\obj\Debug\Consola41-Delegados_ejemplificado.csproj.AssemblyReference.cache
+C:\Users\Braian\source\repos\Consola41-Delegados_ejemplificado\Consola41-Delegados_ejemplificado\obj\Debug\Consola41-Delegados_ejemplificado.csproj.CoreCompileInputs.cache
+C:\Users\Braian\source\repos\Consola41-Delegados_ejemplificado\Consola41-Delegados_ejemplificado\obj\Debug\Consola41-Delegados_ejemplificado.exe
+C:\Users\Braian\source\repos\Consola41-Delegados_ejemplificado\Consola41-Delegados_ejemplificado\obj\Debug\Consola41-Delegados_ejemplificado.pdb

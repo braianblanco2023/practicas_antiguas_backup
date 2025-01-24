@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola31 - Colecciones - Queue y Stack", "Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack.csproj", "{EB947E92-D927-41BD-841B-2363B84CCD88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB947E92-D927-41BD-841B-2363B84CCD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB947E92-D927-41BD-841B-2363B84CCD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB947E92-D927-41BD-841B-2363B84CCD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB947E92-D927-41BD-841B-2363B84CCD88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B703519A-0BDC-4962-A76C-699DFDB2924A}
+	EndGlobalSection
+EndGlobal

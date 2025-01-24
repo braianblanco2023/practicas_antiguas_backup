@@ -1,0 +1,2 @@
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola32 - Excepciones\Consola31\obj\Debug\Consola31.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola32 - Excepciones\Consola31\obj\Debug\Consola31.pdb

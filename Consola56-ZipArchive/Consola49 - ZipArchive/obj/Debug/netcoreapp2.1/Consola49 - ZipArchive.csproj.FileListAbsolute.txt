@@ -1,0 +1,11 @@
+G:\Programacion - Practicas\Projects\Consola49 - ZipArchive\Consola49 - ZipArchive\bin\Debug\netcoreapp2.1\Consola49 - ZipArchive.deps.json
+G:\Programacion - Practicas\Projects\Consola49 - ZipArchive\Consola49 - ZipArchive\bin\Debug\netcoreapp2.1\Consola49 - ZipArchive.runtimeconfig.json
+G:\Programacion - Practicas\Projects\Consola49 - ZipArchive\Consola49 - ZipArchive\bin\Debug\netcoreapp2.1\Consola49 - ZipArchive.runtimeconfig.dev.json
+G:\Programacion - Practicas\Projects\Consola49 - ZipArchive\Consola49 - ZipArchive\bin\Debug\netcoreapp2.1\Consola49 - ZipArchive.dll
+G:\Programacion - Practicas\Projects\Consola49 - ZipArchive\Consola49 - ZipArchive\bin\Debug\netcoreapp2.1\Consola49 - ZipArchive.pdb
+G:\Programacion - Practicas\Projects\Consola49 - ZipArchive\Consola49 - ZipArchive\obj\Debug\netcoreapp2.1\Consola49 - ZipArchive.csprojAssemblyReference.cache
+G:\Programacion - Practicas\Projects\Consola49 - ZipArchive\Consola49 - ZipArchive\obj\Debug\netcoreapp2.1\Consola49 - ZipArchive.csproj.CoreCompileInputs.cache
+G:\Programacion - Practicas\Projects\Consola49 - ZipArchive\Consola49 - ZipArchive\obj\Debug\netcoreapp2.1\Consola49 - ZipArchive.AssemblyInfoInputs.cache
+G:\Programacion - Practicas\Projects\Consola49 - ZipArchive\Consola49 - ZipArchive\obj\Debug\netcoreapp2.1\Consola49 - ZipArchive.AssemblyInfo.cs
+G:\Programacion - Practicas\Projects\Consola49 - ZipArchive\Consola49 - ZipArchive\obj\Debug\netcoreapp2.1\Consola49 - ZipArchive.dll
+G:\Programacion - Practicas\Projects\Consola49 - ZipArchive\Consola49 - ZipArchive\obj\Debug\netcoreapp2.1\Consola49 - ZipArchive.pdb

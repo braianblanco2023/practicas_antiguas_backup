@@ -1,0 +1,2 @@
+G:\Projects\Consola18 - Composición vs Herencia\Consola19\obj\Debug\Consola19.exe
+G:\Projects\Consola18 - Composición vs Herencia\Consola19\obj\Debug\Consola19.pdb

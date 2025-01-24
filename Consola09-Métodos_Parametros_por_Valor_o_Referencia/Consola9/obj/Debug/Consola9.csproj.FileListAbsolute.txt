@@ -1,0 +1,11 @@
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola9\Consola9\bin\Debug\Consola9.exe
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola9\Consola9\bin\Debug\Consola9.pdb
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola9\Consola9\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola9\Consola9\obj\Debug\Consola9.exe
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola9\Consola9\obj\Debug\Consola9.pdb
+C:\Users\Braian\Desktop\C Sharp Braian\C Sharp Braian\Projects\Consola9\Consola9\bin\Debug\Consola9.exe
+C:\Users\Braian\Desktop\C Sharp Braian\C Sharp Braian\Projects\Consola9\Consola9\bin\Debug\Consola9.pdb
+C:\Users\Braian\Desktop\C Sharp Braian\C Sharp Braian\Projects\Consola9\Consola9\obj\Debug\Consola9.csproj.AssemblyReference.cache
+C:\Users\Braian\Desktop\C Sharp Braian\C Sharp Braian\Projects\Consola9\Consola9\obj\Debug\Consola9.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Desktop\C Sharp Braian\C Sharp Braian\Projects\Consola9\Consola9\obj\Debug\Consola9.exe
+C:\Users\Braian\Desktop\C Sharp Braian\C Sharp Braian\Projects\Consola9\Consola9\obj\Debug\Consola9.pdb

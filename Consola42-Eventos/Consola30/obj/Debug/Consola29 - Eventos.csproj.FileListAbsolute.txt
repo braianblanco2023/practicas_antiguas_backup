@@ -1,0 +1,2 @@
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola29 - Eventos\Consola30\obj\Debug\Consola30.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola29 - Eventos\Consola30\obj\Debug\Consola30.pdb

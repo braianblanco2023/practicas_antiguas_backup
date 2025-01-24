@@ -1,0 +1,10 @@
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola4\bin\Debug\Consola4.exe
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola4\bin\Debug\Consola4.pdb
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola4\obj\Debug\Consola4.exe
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola4\obj\Debug\Consola4.pdb
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola4\Consola4\obj\Debug\Consola4.exe
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola4\Consola4\obj\Debug\Consola4.pdb
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola4\Consola4\bin\Debug\Consola4.exe
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola4\Consola4\bin\Debug\Consola4.pdb
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola4\Consola4\obj\Debug\ResolveAssemblyReference.cache

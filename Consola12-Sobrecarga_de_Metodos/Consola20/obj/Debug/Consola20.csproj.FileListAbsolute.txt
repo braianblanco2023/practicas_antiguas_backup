@@ -1,0 +1,7 @@
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola20\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola20\bin\Debug\Consola20.exe
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola20\bin\Debug\Consola20.pdb
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola20\obj\Debug\Consola20.exe
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola20\obj\Debug\Consola20.pdb
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola20\Consola20\obj\Debug\Consola20.exe
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola20\Consola20\obj\Debug\Consola20.pdb

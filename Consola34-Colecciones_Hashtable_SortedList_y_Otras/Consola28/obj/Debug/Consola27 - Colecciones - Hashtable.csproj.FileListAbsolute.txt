@@ -1,0 +1,2 @@
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola27 - Colecciones - Hashtable\Consola28\obj\Debug\Consola28.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola27 - Colecciones - Hashtable\Consola28\obj\Debug\Consola28.pdb

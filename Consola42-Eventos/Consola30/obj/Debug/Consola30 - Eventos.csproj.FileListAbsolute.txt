@@ -1,0 +1,7 @@
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola30 - Eventos\Consola30\obj\Debug\Consola30.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola30 - Eventos\Consola30\obj\Debug\Consola30.pdb
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola30 - Eventos\Consola30\bin\Debug\Consola30.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola30 - Eventos\Consola30\bin\Debug\Consola30.pdb
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola30 - Eventos\Consola30\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\Consola30 - Eventos\Consola30\obj\Debug\Consola30.exe
+D:\Visual Studio 2008\Projects\Consola30 - Eventos\Consola30\obj\Debug\Consola30.pdb

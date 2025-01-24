@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v5.0": {},
+    ".NETFramework,Version=v5.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Braian\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Programacion - Practicas\\Projects\\Consola53 - Threads_Manejo\\Consola50 - Threads_Manejo\\Consola50 - Threads_Manejo.csproj",
+      "projectName": "Consola50 - Threads_Manejo",
+      "projectPath": "G:\\Programacion - Practicas\\Projects\\Consola53 - Threads_Manejo\\Consola50 - Threads_Manejo\\Consola50 - Threads_Manejo.csproj",
+      "packagesPath": "C:\\Users\\Braian\\.nuget\\packages\\",
+      "outputPath": "G:\\Programacion - Practicas\\Projects\\Consola53 - Threads_Manejo\\Consola50 - Threads_Manejo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Braian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net50"
+      ],
+      "sources": {
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net50": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net50": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

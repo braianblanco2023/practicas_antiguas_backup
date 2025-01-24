@@ -1,0 +1,9 @@
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola8\bin\Debug\Consola8.exe
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola8\bin\Debug\Consola8.pdb
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola8\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola8\obj\Debug\Consola8.exe
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola8\obj\Debug\Consola8.pdb
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola8\Consola8\obj\Debug\Consola8.exe
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola8\Consola8\obj\Debug\Consola8.pdb
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola8\Consola8\obj\Debug\Consola8.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola8\Consola8\obj\Debug\Consola8.pdb

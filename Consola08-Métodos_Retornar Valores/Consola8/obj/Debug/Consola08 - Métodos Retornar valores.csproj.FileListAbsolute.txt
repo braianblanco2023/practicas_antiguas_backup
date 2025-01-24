@@ -1,0 +1,2 @@
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola08 - Métodos Retornar valores\Consola8\obj\Debug\Consola8.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola08 - Métodos Retornar valores\Consola8\obj\Debug\Consola8.pdb

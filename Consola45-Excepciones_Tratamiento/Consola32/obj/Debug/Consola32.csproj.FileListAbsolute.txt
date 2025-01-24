@@ -1,0 +1,10 @@
+C:\Users\Braian\AppData\Local\Temporary Projects\Consola32\bin\Debug\Consola32.exe
+C:\Users\Braian\AppData\Local\Temporary Projects\Consola32\bin\Debug\Consola32.pdb
+C:\Users\Braian\AppData\Local\Temporary Projects\Consola32\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Braian\AppData\Local\Temporary Projects\Consola32\obj\Debug\Consola32.exe
+C:\Users\Braian\AppData\Local\Temporary Projects\Consola32\obj\Debug\Consola32.pdb
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola32\Consola32\obj\Debug\Consola32.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola32\Consola32\obj\Debug\Consola32.pdb
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola32\Consola32\bin\Debug\Consola32.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola32\Consola32\bin\Debug\Consola32.pdb
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola32\Consola32\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+G:\Practicas\Projects\Consola26 - Colecciones - Arrays y ArrayList con Bucles\Consola26\bin\Release\Consola26.exe
+G:\Practicas\Projects\Consola26 - Colecciones - Arrays y ArrayList con Bucles\Consola26\bin\Release\Consola26.pdb
+G:\Practicas\Projects\Consola26 - Colecciones - Arrays y ArrayList con Bucles\Consola26\obj\Release\Consola26 - Colecciones - Arrays y ArrayList con Bucles.csproj.CoreCompileInputs.cache
+G:\Practicas\Projects\Consola26 - Colecciones - Arrays y ArrayList con Bucles\Consola26\obj\Release\Consola26.exe
+G:\Practicas\Projects\Consola26 - Colecciones - Arrays y ArrayList con Bucles\Consola26\obj\Release\Consola26.pdb

@@ -1,0 +1,11 @@
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Consola42 - Reflection\bin\Debug\netcoreapp2.1\Consola42 - Reflection.deps.json
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Consola42 - Reflection\bin\Debug\netcoreapp2.1\Consola42 - Reflection.runtimeconfig.json
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Consola42 - Reflection\bin\Debug\netcoreapp2.1\Consola42 - Reflection.runtimeconfig.dev.json
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Consola42 - Reflection\bin\Debug\netcoreapp2.1\Consola42 - Reflection.dll
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Consola42 - Reflection\bin\Debug\netcoreapp2.1\Consola42 - Reflection.pdb
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Consola42 - Reflection\obj\Debug\netcoreapp2.1\Consola42 - Reflection.csprojAssemblyReference.cache
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Consola42 - Reflection\obj\Debug\netcoreapp2.1\Consola42 - Reflection.csproj.CoreCompileInputs.cache
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Consola42 - Reflection\obj\Debug\netcoreapp2.1\Consola42 - Reflection.AssemblyInfoInputs.cache
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Consola42 - Reflection\obj\Debug\netcoreapp2.1\Consola42 - Reflection.AssemblyInfo.cs
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Consola42 - Reflection\obj\Debug\netcoreapp2.1\Consola42 - Reflection.dll
+G:\Programacion - Practicas\Projects\Consola42 - Reflection\Consola42 - Reflection\obj\Debug\netcoreapp2.1\Consola42 - Reflection.pdb

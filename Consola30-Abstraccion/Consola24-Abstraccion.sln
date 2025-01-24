@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola24-Abstraccion", "Consola24-Abstraccion\Consola24-Abstraccion.csproj", "{035D5907-0987-4663-8D81-3F040847F883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035D5907-0987-4663-8D81-3F040847F883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035D5907-0987-4663-8D81-3F040847F883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035D5907-0987-4663-8D81-3F040847F883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035D5907-0987-4663-8D81-3F040847F883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9664A04-8E03-4BBB-A5CF-D0F4F90C0DCE}
+	EndGlobalSection
+EndGlobal

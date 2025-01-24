@@ -1,0 +1,11 @@
+G:\Programacion - Practicas\Projects\Consola52 - Threads_ProgParalela\Consola52 - Threads_ProgParalela\bin\Debug\netcoreapp2.1\Consola52 - Threads_ProgParalela.deps.json
+G:\Programacion - Practicas\Projects\Consola52 - Threads_ProgParalela\Consola52 - Threads_ProgParalela\bin\Debug\netcoreapp2.1\Consola52 - Threads_ProgParalela.runtimeconfig.json
+G:\Programacion - Practicas\Projects\Consola52 - Threads_ProgParalela\Consola52 - Threads_ProgParalela\bin\Debug\netcoreapp2.1\Consola52 - Threads_ProgParalela.runtimeconfig.dev.json
+G:\Programacion - Practicas\Projects\Consola52 - Threads_ProgParalela\Consola52 - Threads_ProgParalela\bin\Debug\netcoreapp2.1\Consola52 - Threads_ProgParalela.dll
+G:\Programacion - Practicas\Projects\Consola52 - Threads_ProgParalela\Consola52 - Threads_ProgParalela\bin\Debug\netcoreapp2.1\Consola52 - Threads_ProgParalela.pdb
+G:\Programacion - Practicas\Projects\Consola52 - Threads_ProgParalela\Consola52 - Threads_ProgParalela\obj\Debug\netcoreapp2.1\Consola52 - Threads_ProgParalela.csprojAssemblyReference.cache
+G:\Programacion - Practicas\Projects\Consola52 - Threads_ProgParalela\Consola52 - Threads_ProgParalela\obj\Debug\netcoreapp2.1\Consola52 - Threads_ProgParalela.csproj.CoreCompileInputs.cache
+G:\Programacion - Practicas\Projects\Consola52 - Threads_ProgParalela\Consola52 - Threads_ProgParalela\obj\Debug\netcoreapp2.1\Consola52 - Threads_ProgParalela.AssemblyInfoInputs.cache
+G:\Programacion - Practicas\Projects\Consola52 - Threads_ProgParalela\Consola52 - Threads_ProgParalela\obj\Debug\netcoreapp2.1\Consola52 - Threads_ProgParalela.AssemblyInfo.cs
+G:\Programacion - Practicas\Projects\Consola52 - Threads_ProgParalela\Consola52 - Threads_ProgParalela\obj\Debug\netcoreapp2.1\Consola52 - Threads_ProgParalela.dll
+G:\Programacion - Practicas\Projects\Consola52 - Threads_ProgParalela\Consola52 - Threads_ProgParalela\obj\Debug\netcoreapp2.1\Consola52 - Threads_ProgParalela.pdb

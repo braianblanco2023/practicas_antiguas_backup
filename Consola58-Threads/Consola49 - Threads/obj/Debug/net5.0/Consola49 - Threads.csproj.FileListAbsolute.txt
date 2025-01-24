@@ -1,0 +1,16 @@
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\bin\Debug\net5.0\Consola49 - Threads.exe
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\bin\Debug\net5.0\Consola49 - Threads.deps.json
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\bin\Debug\net5.0\Consola49 - Threads.runtimeconfig.json
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\bin\Debug\net5.0\Consola49 - Threads.runtimeconfig.dev.json
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\bin\Debug\net5.0\Consola49 - Threads.dll
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\bin\Debug\net5.0\ref\Consola49 - Threads.dll
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\bin\Debug\net5.0\Consola49 - Threads.pdb
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\obj\Debug\net5.0\Consola49 - Threads.csprojAssemblyReference.cache
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\obj\Debug\net5.0\Consola49 - Threads.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\obj\Debug\net5.0\Consola49 - Threads.AssemblyInfoInputs.cache
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\obj\Debug\net5.0\Consola49 - Threads.AssemblyInfo.cs
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\obj\Debug\net5.0\Consola49 - Threads.csproj.CoreCompileInputs.cache
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\obj\Debug\net5.0\Consola49 - Threads.dll
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\obj\Debug\net5.0\ref\Consola49 - Threads.dll
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\obj\Debug\net5.0\Consola49 - Threads.pdb
+F:\Programacion - Practicas\Projects\Consola49 - Threads\Consola49 - Threads\obj\Debug\net5.0\Consola49 - Threads.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\Braian\AppData\Local\Temporary Projects\Consola29\bin\Debug\Consola29.exe
+C:\Users\Braian\AppData\Local\Temporary Projects\Consola29\bin\Debug\Consola29.pdb
+C:\Users\Braian\AppData\Local\Temporary Projects\Consola29\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Braian\AppData\Local\Temporary Projects\Consola29\obj\Debug\Consola29.exe
+C:\Users\Braian\AppData\Local\Temporary Projects\Consola29\obj\Debug\Consola29.pdb
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola29\Consola29\obj\Debug\Consola29.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola29\Consola29\obj\Debug\Consola29.pdb

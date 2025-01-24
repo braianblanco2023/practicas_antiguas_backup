@@ -1,0 +1,5 @@
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola22 - Polimorfismo - Clases Abstractas\Consola22 - Polimorfismo - Clases Abstractas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola22 - Polimorfismo - Clases Abstractas\Consola22 - Polimorfismo - Clases Abstractas\bin\Debug\Consola22 - Polimorfismo - Clases Abstractas.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola22 - Polimorfismo - Clases Abstractas\Consola22 - Polimorfismo - Clases Abstractas\bin\Debug\Consola22 - Polimorfismo - Clases Abstractas.pdb
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola22 - Polimorfismo - Clases Abstractas\Consola22 - Polimorfismo - Clases Abstractas\obj\Debug\Consola22 - Polimorfismo - Clases Abstractas.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola22 - Polimorfismo - Clases Abstractas\Consola22 - Polimorfismo - Clases Abstractas\obj\Debug\Consola22 - Polimorfismo - Clases Abstractas.pdb

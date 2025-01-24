@@ -1,0 +1,16 @@
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\bin\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.exe
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\bin\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.deps.json
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\bin\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.runtimeconfig.json
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\bin\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.runtimeconfig.dev.json
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\bin\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.dll
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\bin\Debug\net5.0\ref\Consola31 - Colecciones - Queue y Stack.dll
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\bin\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.pdb
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\obj\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.csprojAssemblyReference.cache
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\obj\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\obj\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.AssemblyInfoInputs.cache
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\obj\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.AssemblyInfo.cs
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\obj\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.csproj.CoreCompileInputs.cache
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\obj\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.dll
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\obj\Debug\net5.0\ref\Consola31 - Colecciones - Queue y Stack.dll
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\obj\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.pdb
+G:\Practicas\Projects\Consola31 - Colecciones - Queue y Stack\Consola31 - Colecciones - Queue y Stack\obj\Debug\net5.0\Consola31 - Colecciones - Queue y Stack.genruntimeconfig.cache

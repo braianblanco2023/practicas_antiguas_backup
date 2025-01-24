@@ -1,0 +1,2 @@
+D:\Visual Studio 2008\Projects\Consola19 - Composición vs Herencia\Consola19\obj\Debug\Consola19.exe
+D:\Visual Studio 2008\Projects\Consola19 - Composición vs Herencia\Consola19\obj\Debug\Consola19.pdb

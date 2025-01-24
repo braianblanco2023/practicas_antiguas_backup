@@ -1,0 +1,6 @@
+C:\Users\Braian\AppData\Local\Temporary Projects\Consola40 - Código no Gestionado - Unsafe Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola40 - Código no Gestionado - Unsafe Code\Consola40 - Código no Gestionado - Unsafe Code\bin\Debug\Consola40 - Código no Gestionado - Unsafe Code.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola40 - Código no Gestionado - Unsafe Code\Consola40 - Código no Gestionado - Unsafe Code\bin\Debug\Consola40 - Código no Gestionado - Unsafe Code.pdb
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola40 - Código no Gestionado - Unsafe Code\Consola40 - Código no Gestionado - Unsafe Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola40 - Código no Gestionado - Unsafe Code\Consola40 - Código no Gestionado - Unsafe Code\obj\Debug\Consola40 - Código no Gestionado - Unsafe Code.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola40 - Código no Gestionado - Unsafe Code\Consola40 - Código no Gestionado - Unsafe Code\obj\Debug\Consola40 - Código no Gestionado - Unsafe Code.pdb

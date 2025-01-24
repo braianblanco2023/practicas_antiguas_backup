@@ -1,0 +1,11 @@
+G:\Programacion - Practicas\Projects\Consola51 - Threads_ProgramacionAsincrona\Consola51 - Threads_ProgramacionAsincrona\bin\Debug\netcoreapp2.1\Consola51 - Threads_ProgramacionAsincrona.deps.json
+G:\Programacion - Practicas\Projects\Consola51 - Threads_ProgramacionAsincrona\Consola51 - Threads_ProgramacionAsincrona\bin\Debug\netcoreapp2.1\Consola51 - Threads_ProgramacionAsincrona.runtimeconfig.json
+G:\Programacion - Practicas\Projects\Consola51 - Threads_ProgramacionAsincrona\Consola51 - Threads_ProgramacionAsincrona\bin\Debug\netcoreapp2.1\Consola51 - Threads_ProgramacionAsincrona.runtimeconfig.dev.json
+G:\Programacion - Practicas\Projects\Consola51 - Threads_ProgramacionAsincrona\Consola51 - Threads_ProgramacionAsincrona\bin\Debug\netcoreapp2.1\Consola51 - Threads_ProgramacionAsincrona.dll
+G:\Programacion - Practicas\Projects\Consola51 - Threads_ProgramacionAsincrona\Consola51 - Threads_ProgramacionAsincrona\bin\Debug\netcoreapp2.1\Consola51 - Threads_ProgramacionAsincrona.pdb
+G:\Programacion - Practicas\Projects\Consola51 - Threads_ProgramacionAsincrona\Consola51 - Threads_ProgramacionAsincrona\obj\Debug\netcoreapp2.1\Consola51 - Threads_ProgramacionAsincrona.csprojAssemblyReference.cache
+G:\Programacion - Practicas\Projects\Consola51 - Threads_ProgramacionAsincrona\Consola51 - Threads_ProgramacionAsincrona\obj\Debug\netcoreapp2.1\Consola51 - Threads_ProgramacionAsincrona.csproj.CoreCompileInputs.cache
+G:\Programacion - Practicas\Projects\Consola51 - Threads_ProgramacionAsincrona\Consola51 - Threads_ProgramacionAsincrona\obj\Debug\netcoreapp2.1\Consola51 - Threads_ProgramacionAsincrona.AssemblyInfoInputs.cache
+G:\Programacion - Practicas\Projects\Consola51 - Threads_ProgramacionAsincrona\Consola51 - Threads_ProgramacionAsincrona\obj\Debug\netcoreapp2.1\Consola51 - Threads_ProgramacionAsincrona.AssemblyInfo.cs
+G:\Programacion - Practicas\Projects\Consola51 - Threads_ProgramacionAsincrona\Consola51 - Threads_ProgramacionAsincrona\obj\Debug\netcoreapp2.1\Consola51 - Threads_ProgramacionAsincrona.dll
+G:\Programacion - Practicas\Projects\Consola51 - Threads_ProgramacionAsincrona\Consola51 - Threads_ProgramacionAsincrona\obj\Debug\netcoreapp2.1\Consola51 - Threads_ProgramacionAsincrona.pdb

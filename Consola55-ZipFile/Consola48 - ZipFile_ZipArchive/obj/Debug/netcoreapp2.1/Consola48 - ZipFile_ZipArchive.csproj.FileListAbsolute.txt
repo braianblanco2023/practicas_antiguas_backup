@@ -1,0 +1,11 @@
+G:\Programacion - Practicas\Projects\Consola48 - ZipFile_ZipArchive\Consola48 - ZipFile_ZipArchive\bin\Debug\netcoreapp2.1\Consola48 - ZipFile_ZipArchive.deps.json
+G:\Programacion - Practicas\Projects\Consola48 - ZipFile_ZipArchive\Consola48 - ZipFile_ZipArchive\bin\Debug\netcoreapp2.1\Consola48 - ZipFile_ZipArchive.runtimeconfig.json
+G:\Programacion - Practicas\Projects\Consola48 - ZipFile_ZipArchive\Consola48 - ZipFile_ZipArchive\bin\Debug\netcoreapp2.1\Consola48 - ZipFile_ZipArchive.runtimeconfig.dev.json
+G:\Programacion - Practicas\Projects\Consola48 - ZipFile_ZipArchive\Consola48 - ZipFile_ZipArchive\bin\Debug\netcoreapp2.1\Consola48 - ZipFile_ZipArchive.dll
+G:\Programacion - Practicas\Projects\Consola48 - ZipFile_ZipArchive\Consola48 - ZipFile_ZipArchive\bin\Debug\netcoreapp2.1\Consola48 - ZipFile_ZipArchive.pdb
+G:\Programacion - Practicas\Projects\Consola48 - ZipFile_ZipArchive\Consola48 - ZipFile_ZipArchive\obj\Debug\netcoreapp2.1\Consola48 - ZipFile_ZipArchive.csprojAssemblyReference.cache
+G:\Programacion - Practicas\Projects\Consola48 - ZipFile_ZipArchive\Consola48 - ZipFile_ZipArchive\obj\Debug\netcoreapp2.1\Consola48 - ZipFile_ZipArchive.csproj.CoreCompileInputs.cache
+G:\Programacion - Practicas\Projects\Consola48 - ZipFile_ZipArchive\Consola48 - ZipFile_ZipArchive\obj\Debug\netcoreapp2.1\Consola48 - ZipFile_ZipArchive.AssemblyInfoInputs.cache
+G:\Programacion - Practicas\Projects\Consola48 - ZipFile_ZipArchive\Consola48 - ZipFile_ZipArchive\obj\Debug\netcoreapp2.1\Consola48 - ZipFile_ZipArchive.AssemblyInfo.cs
+G:\Programacion - Practicas\Projects\Consola48 - ZipFile_ZipArchive\Consola48 - ZipFile_ZipArchive\obj\Debug\netcoreapp2.1\Consola48 - ZipFile_ZipArchive.dll
+G:\Programacion - Practicas\Projects\Consola48 - ZipFile_ZipArchive\Consola48 - ZipFile_ZipArchive\obj\Debug\netcoreapp2.1\Consola48 - ZipFile_ZipArchive.pdb

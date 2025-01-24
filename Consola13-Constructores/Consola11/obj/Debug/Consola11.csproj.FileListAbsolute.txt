@@ -1,0 +1,16 @@
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola11\bin\Debug\Consola11.exe
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola11\bin\Debug\Consola11.pdb
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola11\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola11\obj\Debug\Consola11.exe
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola11\obj\Debug\Consola11.pdb
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola11\Consola11\obj\Debug\Consola11.exe
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola11\Consola11\obj\Debug\Consola11.pdb
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola11\Consola11\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola11\Consola11\bin\Debug\Consola11.exe
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola11\Consola11\bin\Debug\Consola11.pdb
+C:\Users\Braian\Desktop\C Sharp Braian\C Sharp Braian\Projects\Consola11\Consola11\bin\Debug\Consola11.exe
+C:\Users\Braian\Desktop\C Sharp Braian\C Sharp Braian\Projects\Consola11\Consola11\bin\Debug\Consola11.pdb
+C:\Users\Braian\Desktop\C Sharp Braian\C Sharp Braian\Projects\Consola11\Consola11\obj\Debug\Consola11.csproj.AssemblyReference.cache
+C:\Users\Braian\Desktop\C Sharp Braian\C Sharp Braian\Projects\Consola11\Consola11\obj\Debug\Consola11.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Desktop\C Sharp Braian\C Sharp Braian\Projects\Consola11\Consola11\obj\Debug\Consola11.exe
+C:\Users\Braian\Desktop\C Sharp Braian\C Sharp Braian\Projects\Consola11\Consola11\obj\Debug\Consola11.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Consola35 - Colecciones - Tuplas/1.0.0": {
+        "runtime": {
+          "Consola35 - Colecciones - Tuplas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola35 - Colecciones - Tuplas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

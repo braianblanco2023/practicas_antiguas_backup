@@ -1,0 +1,5 @@
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola10\Consola10\bin\Debug\Consola10.exe
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola10\Consola10\bin\Debug\Consola10.pdb
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola10\Consola10\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola10\Consola10\obj\Debug\Consola10.exe
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola10\Consola10\obj\Debug\Consola10.pdb

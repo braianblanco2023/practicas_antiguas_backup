@@ -1,0 +1,16 @@
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\bin\Debug\net5.0\Consola50 - Threads_Manejo.exe
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\bin\Debug\net5.0\Consola50 - Threads_Manejo.deps.json
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\bin\Debug\net5.0\Consola50 - Threads_Manejo.runtimeconfig.json
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\bin\Debug\net5.0\Consola50 - Threads_Manejo.runtimeconfig.dev.json
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\bin\Debug\net5.0\Consola50 - Threads_Manejo.dll
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\bin\Debug\net5.0\ref\Consola50 - Threads_Manejo.dll
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\bin\Debug\net5.0\Consola50 - Threads_Manejo.pdb
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\obj\Debug\net5.0\Consola50 - Threads_Manejo.csprojAssemblyReference.cache
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\obj\Debug\net5.0\Consola50 - Threads_Manejo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\obj\Debug\net5.0\Consola50 - Threads_Manejo.AssemblyInfoInputs.cache
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\obj\Debug\net5.0\Consola50 - Threads_Manejo.AssemblyInfo.cs
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\obj\Debug\net5.0\Consola50 - Threads_Manejo.csproj.CoreCompileInputs.cache
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\obj\Debug\net5.0\Consola50 - Threads_Manejo.dll
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\obj\Debug\net5.0\ref\Consola50 - Threads_Manejo.dll
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\obj\Debug\net5.0\Consola50 - Threads_Manejo.pdb
+F:\Programacion - Practicas\Projects\Consola50 - Threads_Manejo\Consola50 - Threads_Manejo\obj\Debug\net5.0\Consola50 - Threads_Manejo.genruntimeconfig.cache

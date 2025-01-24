@@ -1,0 +1,14 @@
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\bin\Debug\net6.0\Consola62-Serializacion.exe
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\bin\Debug\net6.0\Consola62-Serializacion.deps.json
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\bin\Debug\net6.0\Consola62-Serializacion.runtimeconfig.json
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\bin\Debug\net6.0\Consola62-Serializacion.dll
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\bin\Debug\net6.0\Consola62-Serializacion.pdb
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\obj\Debug\net6.0\Consola62-Serializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\obj\Debug\net6.0\Consola62-Serializacion.AssemblyInfoInputs.cache
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\obj\Debug\net6.0\Consola62-Serializacion.AssemblyInfo.cs
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\obj\Debug\net6.0\Consola62-Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\obj\Debug\net6.0\Consola62-Serializacion.dll
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\obj\Debug\net6.0\refint\Consola62-Serializacion.dll
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\obj\Debug\net6.0\Consola62-Serializacion.pdb
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\obj\Debug\net6.0\Consola62-Serializacion.genruntimeconfig.cache
+C:\Users\Braian\Desktop\C Sharp Braian\Projects\Consola62-Serializacion\Consola62-Serializacion\Consola62-Serializacion\obj\Debug\net6.0\ref\Consola62-Serializacion.dll

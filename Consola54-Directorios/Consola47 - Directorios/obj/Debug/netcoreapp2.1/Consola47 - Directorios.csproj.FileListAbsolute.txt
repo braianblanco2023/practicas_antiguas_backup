@@ -1,0 +1,11 @@
+G:\Programacion - Practicas\Projects\Consola47 - Directorios\Consola47 - Directorios\obj\Debug\netcoreapp2.1\Consola47 - Directorios.csprojAssemblyReference.cache
+G:\Programacion - Practicas\Projects\Consola47 - Directorios\Consola47 - Directorios\obj\Debug\netcoreapp2.1\Consola47 - Directorios.csproj.CoreCompileInputs.cache
+G:\Programacion - Practicas\Projects\Consola47 - Directorios\Consola47 - Directorios\obj\Debug\netcoreapp2.1\Consola47 - Directorios.AssemblyInfoInputs.cache
+G:\Programacion - Practicas\Projects\Consola47 - Directorios\Consola47 - Directorios\obj\Debug\netcoreapp2.1\Consola47 - Directorios.AssemblyInfo.cs
+G:\Programacion - Practicas\Projects\Consola47 - Directorios\Consola47 - Directorios\bin\Debug\netcoreapp2.1\Consola47 - Directorios.deps.json
+G:\Programacion - Practicas\Projects\Consola47 - Directorios\Consola47 - Directorios\bin\Debug\netcoreapp2.1\Consola47 - Directorios.runtimeconfig.json
+G:\Programacion - Practicas\Projects\Consola47 - Directorios\Consola47 - Directorios\bin\Debug\netcoreapp2.1\Consola47 - Directorios.runtimeconfig.dev.json
+G:\Programacion - Practicas\Projects\Consola47 - Directorios\Consola47 - Directorios\bin\Debug\netcoreapp2.1\Consola47 - Directorios.dll
+G:\Programacion - Practicas\Projects\Consola47 - Directorios\Consola47 - Directorios\bin\Debug\netcoreapp2.1\Consola47 - Directorios.pdb
+G:\Programacion - Practicas\Projects\Consola47 - Directorios\Consola47 - Directorios\obj\Debug\netcoreapp2.1\Consola47 - Directorios.dll
+G:\Programacion - Practicas\Projects\Consola47 - Directorios\Consola47 - Directorios\obj\Debug\netcoreapp2.1\Consola47 - Directorios.pdb

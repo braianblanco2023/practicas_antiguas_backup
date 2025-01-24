@@ -1,0 +1,9 @@
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola19\bin\Debug\Consola19.exe
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola19\bin\Debug\Consola19.pdb
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola19\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola19\obj\Debug\Consola19.exe
+C:\Users\Yisela\AppData\Local\Temporary Projects\Consola19\obj\Debug\Consola19.pdb
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola19\Consola19\obj\Debug\Consola19.exe
+C:\Users\Yisela\Documents\Visual Studio 2008\Projects\Consola19\Consola19\obj\Debug\Consola19.pdb
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola19\Consola19\obj\Debug\Consola19.exe
+C:\Users\Braian\Documents\Visual Studio 2008\Projects\Consola19\Consola19\obj\Debug\Consola19.pdb

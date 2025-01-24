@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola34 - Colecciones - IDictionary y Tuple", "Consola35 - Colecciones - Tuplas\Consola34 - Colecciones - IDictionary y Tuple.csproj", "{5A726697-8D28-484D-9FFB-A6E62FEC0BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A726697-8D28-484D-9FFB-A6E62FEC0BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A726697-8D28-484D-9FFB-A6E62FEC0BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A726697-8D28-484D-9FFB-A6E62FEC0BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A726697-8D28-484D-9FFB-A6E62FEC0BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {515F6E96-FB47-4CBD-A16E-12D5A2136561}
+	EndGlobalSection
+EndGlobal

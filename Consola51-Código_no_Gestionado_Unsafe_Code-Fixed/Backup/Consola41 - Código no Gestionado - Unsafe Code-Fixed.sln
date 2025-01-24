@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola41 - Código no Gestionado - Unsafe Code-Fixed", "Consola41 - Código no Gestionado - Unsafe Code-Fixed\Consola41 - Código no Gestionado - Unsafe Code-Fixed.csproj", "{85AAFBBD-1054-4FB2-A5FB-43BD704E18CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85AAFBBD-1054-4FB2-A5FB-43BD704E18CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85AAFBBD-1054-4FB2-A5FB-43BD704E18CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85AAFBBD-1054-4FB2-A5FB-43BD704E18CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85AAFBBD-1054-4FB2-A5FB-43BD704E18CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Braian\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Braian\\.nuget\\packages"
+    ]
+  }
+}

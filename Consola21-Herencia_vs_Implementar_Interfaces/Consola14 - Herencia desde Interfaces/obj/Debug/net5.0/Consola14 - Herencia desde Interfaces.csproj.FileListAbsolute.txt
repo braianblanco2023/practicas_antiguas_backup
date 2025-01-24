@@ -1,0 +1,16 @@
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\bin\Debug\net5.0\Consola14 - Herencia desde Interfaces.exe
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\bin\Debug\net5.0\Consola14 - Herencia desde Interfaces.deps.json
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\bin\Debug\net5.0\Consola14 - Herencia desde Interfaces.runtimeconfig.json
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\bin\Debug\net5.0\Consola14 - Herencia desde Interfaces.runtimeconfig.dev.json
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\bin\Debug\net5.0\Consola14 - Herencia desde Interfaces.dll
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\bin\Debug\net5.0\ref\Consola14 - Herencia desde Interfaces.dll
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\bin\Debug\net5.0\Consola14 - Herencia desde Interfaces.pdb
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\obj\Debug\net5.0\Consola14 - Herencia desde Interfaces.csprojAssemblyReference.cache
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\obj\Debug\net5.0\Consola14 - Herencia desde Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\obj\Debug\net5.0\Consola14 - Herencia desde Interfaces.AssemblyInfoInputs.cache
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\obj\Debug\net5.0\Consola14 - Herencia desde Interfaces.AssemblyInfo.cs
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\obj\Debug\net5.0\Consola14 - Herencia desde Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\obj\Debug\net5.0\Consola14 - Herencia desde Interfaces.dll
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\obj\Debug\net5.0\ref\Consola14 - Herencia desde Interfaces.dll
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\obj\Debug\net5.0\Consola14 - Herencia desde Interfaces.pdb
+C:\Users\Braian\source\repos\Consola14 - Herencia desde Interfaces\Consola14 - Herencia desde Interfaces\obj\Debug\net5.0\Consola14 - Herencia desde Interfaces.genruntimeconfig.cache

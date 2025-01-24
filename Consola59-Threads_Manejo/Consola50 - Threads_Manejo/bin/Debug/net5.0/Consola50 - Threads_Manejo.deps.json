@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consola50 - Threads_Manejo/1.0.0": {
+        "runtime": {
+          "Consola50 - Threads_Manejo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola50 - Threads_Manejo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

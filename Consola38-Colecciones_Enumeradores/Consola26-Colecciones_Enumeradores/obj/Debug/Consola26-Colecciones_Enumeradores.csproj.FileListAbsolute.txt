@@ -1,0 +1,7 @@
+C:\Users\Braian\source\repos\Consola26-Colecciones_Enumeradores\Consola26-Colecciones_Enumeradores\bin\Debug\Consola26-Colecciones_Enumeradores.exe.config
+C:\Users\Braian\source\repos\Consola26-Colecciones_Enumeradores\Consola26-Colecciones_Enumeradores\bin\Debug\Consola26-Colecciones_Enumeradores.exe
+C:\Users\Braian\source\repos\Consola26-Colecciones_Enumeradores\Consola26-Colecciones_Enumeradores\bin\Debug\Consola26-Colecciones_Enumeradores.pdb
+C:\Users\Braian\source\repos\Consola26-Colecciones_Enumeradores\Consola26-Colecciones_Enumeradores\obj\Debug\Consola26-Colecciones_Enumeradores.csproj.AssemblyReference.cache
+C:\Users\Braian\source\repos\Consola26-Colecciones_Enumeradores\Consola26-Colecciones_Enumeradores\obj\Debug\Consola26-Colecciones_Enumeradores.csproj.CoreCompileInputs.cache
+C:\Users\Braian\source\repos\Consola26-Colecciones_Enumeradores\Consola26-Colecciones_Enumeradores\obj\Debug\Consola26-Colecciones_Enumeradores.exe
+C:\Users\Braian\source\repos\Consola26-Colecciones_Enumeradores\Consola26-Colecciones_Enumeradores\obj\Debug\Consola26-Colecciones_Enumeradores.pdb
